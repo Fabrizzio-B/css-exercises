@@ -1,0 +1,11 @@
+.emo{
+    background-color: black;
+    color: white;
+}
+.bright{
+    background-color: hsl(55, 100%, 60%);
+}
+.emo, .bright{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
