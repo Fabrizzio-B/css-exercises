@@ -1,0 +1,18 @@
+.redbg{
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: hsl(0, 100%, 85%);
+}
+
+#two{
+    color: hsl(230, 70%, 45%);
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    font-size: 24px;
+    background-color: hsl(120, 100%, 70%);
+}
